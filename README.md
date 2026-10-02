@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ishav Mahajan
 
-<!--
-**ishavmahajan/ishavmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Computer Science student interested in software
+development, applied AI, and data analytics.
 
-Here are some ideas to get you started:
+My experience in procurement analytics inspired ProcureAI, a project
+I'm developing to help compare supplier quotes and purchasing costs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+- **SignBridge** — A hackathon prototype that recognizes a limited
+  set of signs through a webcam using computer vision and machine learning.
+  [View project](https://github.com/ishavmahajan/Hackathon-Conhacks)
+
+- **ProcureAI · In development** — A Python supplier comparison tool
+  with input validation, cost calculations, and potential savings.
+  Planned additions include document imports and AI-assisted explanations.
+
+### Technologies
+
+Python · C ·  C# · C++ · .NET · SQL · Git · Power BI  
+OpenCV · MediaPipe · scikit-learn · React Native
+
+### Current focus
+
+Developing ProcureAI, strengthening my software testing skills,
+and seeking software, data, or AI co-op opportunities.
